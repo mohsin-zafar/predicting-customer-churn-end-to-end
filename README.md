@@ -375,9 +375,8 @@ Contributions are welcome! Please feel free to submit a Pull Request with:
 ## Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub:https://github.com/mohsin-zafar
+- Email: mohsinzafar6398@gmail.com
 
 ---
 
