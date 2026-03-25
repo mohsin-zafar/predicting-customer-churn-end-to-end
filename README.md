@@ -194,12 +194,13 @@ This dashboard showcases comprehensive exploratory data analysis, revealing cust
 ![EDA Dashboard](Assests/Dashboard_images/Summary.png)
 
 **Key visualizations include:**
-- Customer demographics distribution (age, gender, location)
-- Service adoption rates and subscription patterns
-- Monthly charges distribution and revenue analysis
-- Churn rate by different customer segments
-- Contract type and tenure impact on churn
-- Internet service type comparison
+- Analyzed 6,418 customers and identified 1,732 churn cases, resulting in an overall 27% churn rate
+- Evaluated customer segments (age, gender, tenure) and observed higher churn concentration in mid-age groups and short-tenure customers
+- Compared service usage and internet types, identifying fiber optic users with the highest churn rate (~41%)
+- Assessed contract types and payment methods, where month-to-month contracts (~47% churn) and non-credit payment methods show higher churn
+Impact & Outcome:
+- Identified high-risk customer segments, enabling targeted retention strategies (e.g., contract upgrades, service bundling)
+- Built a strong analytical foundation for feature selection and churn prediction modeling
 
 ---
 
@@ -210,12 +211,13 @@ This dashboard presents the machine learning model's predictions, showing predic
 ![Prediction Dashboard](Assests/Dashboard_images/prediction.png)
 
 **Key visualizations include:**
-- Predicted churn probability distribution
-- Customer risk segmentation (High/Medium/Low)
-- Model confidence and accuracy metrics
-- Feature importance rankings
-- Predicted vs. Actual churn comparison
-- Recommendation matrix for customer engagement strategies
+- Predicted 1,665 customers as potential churners using customer behavioral and service data
+- Analyzed gender distribution of predicted churn, with 1,060 females and 605 males, indicating higher churn likelihood among female customers
+- Evaluated contract and payment behavior, where ~1.5K predicted churners are on month-to-month contracts and majority use electronic check payments (~1.2K)
+- Identified state-wise churn concentration, highlighting key regions contributing most to predicted churn
+Impact & Outcome:
+- Enabled proactive identification of high-risk customers, supporting early intervention and retention campaigns
+- Provided actionable insights for business decisions, such as promoting long-term contracts and optimizing payment methods to reduce churn
 
 ---
 
