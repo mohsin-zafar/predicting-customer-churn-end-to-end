@@ -191,7 +191,7 @@ Churn_Data_Analysis/
 
 This dashboard showcases comprehensive exploratory data analysis, revealing customer demographics, service usage patterns, and churn distribution across different segments.
 
-![EDA Dashboard](Assests/Dashboard_images/summary.png)
+![EDA Dashboard](Assests/Dashboard_images/Summary.png)
 
 **Key visualizations include:**
 - Customer demographics distribution (age, gender, location)
