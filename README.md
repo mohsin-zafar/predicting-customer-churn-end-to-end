@@ -191,7 +191,7 @@ Churn_Data_Analysis/
 
 This dashboard showcases comprehensive exploratory data analysis, revealing customer demographics, service usage patterns, and churn distribution across different segments.
 
-![EDA Dashboard](Assests/Images/eda_dashboard.png)
+![EDA Dashboard](Assests/Dashboard_images/summary.png)
 
 **Key visualizations include:**
 - Customer demographics distribution (age, gender, location)
@@ -207,7 +207,7 @@ This dashboard showcases comprehensive exploratory data analysis, revealing cust
 
 This dashboard presents the machine learning model's predictions, showing predicted churn probability, model confidence scores, and recommended actions based on risk assessment.
 
-![Prediction Dashboard](Assests/Images/prediction_dashboard.png)
+![Prediction Dashboard](Assests/Dashboard_images/prediction.png)
 
 **Key visualizations include:**
 - Predicted churn probability distribution
