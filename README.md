@@ -380,7 +380,7 @@ Contributions are welcome! Please feel free to submit a Pull Request with:
 
 ## Author
 
-**Your Name**Mohsin Zafar
+**Your Name**:Mohsin Zafar
 - GitHub:https://github.com/mohsin-zafar
 - Email: mohsinzafar6398@gmail.com
 
